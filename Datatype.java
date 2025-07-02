@@ -6,5 +6,8 @@ public class Datatype {
     System.out.println(b);
     String name = "Iron man";
     System.out.print(name);
+    boolean var = true ;
+    float number = (float) 10.3 ; 
+    
   }
 }
