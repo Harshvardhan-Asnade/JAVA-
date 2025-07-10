@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Product {
     public static void main(String[] args) {
    Scanner Product =new Scanner(System.in);
    System.out.println("Enter the value of A");
